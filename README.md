@@ -13,6 +13,6 @@ Technological Institute of the Philippines Quezon City (TIP-QC)
 Valorant, K-pop, K-drama, Basketball, Working out, Watching Movies
 
 ### Computer Specs
-Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz 2.80 GHz, Ram 8gb
+Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz 2.80 GHz, Ram 4gb
 <!--
 **jbnaldo-tip/jbnaldo-tip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
